@@ -1,4 +1,4 @@
-module gitlab.com/stank0s/toom/producks/zap-logging
+module github.com/sagaltsev/zap-logging
 
 go 1.18
 
